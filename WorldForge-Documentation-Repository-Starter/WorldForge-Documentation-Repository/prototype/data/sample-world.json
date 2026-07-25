@@ -1,0 +1,15 @@
+{
+  "name": "WorldForge Prototype",
+  "version": "0.1.0",
+  "motto": "Excelsior. We Live.",
+  "locations": [
+    "Explorer Home",
+    "Library",
+    "Museum",
+    "Workshop",
+    "WorldForge Academy",
+    "Hall of History",
+    "Simulation Institute",
+    "Neighborhood"
+  ]
+}
