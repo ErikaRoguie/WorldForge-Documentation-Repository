@@ -1,0 +1,60 @@
+worldforge-docs/
+│
+├── README.md
+├── LICENSE
+├── CONTRIBUTING.md
+├── CODE_OF_CONDUCT.md
+├── CHANGELOG.md
+├── ROADMAP.md
+├── RELEASES.md
+│
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   ├── PULL_REQUEST_TEMPLATE.md
+│   └── workflows/
+│
+├── assets/
+│   ├── logos/
+│   ├── icons/
+│   ├── diagrams/
+│   ├── screenshots/
+│   └── branding/
+│
+├── templates/
+│   ├── cover-page.docx
+│   ├── chapter-template.docx
+│   ├── appendix-template.docx
+│   ├── meeting-notes.md
+│   └── architecture-template.md
+│
+├── styles/
+│   ├── worldforge.dotx
+│   ├── colors.md
+│   ├── typography.md
+│   └── diagram-style.md
+│
+├── volumes/
+│
+│   ├── Volume-I-Executive/
+│   │
+│   ├── Volume-II-Product/
+│   │
+│   ├── Volume-III-Engineering/
+│   │
+│   ├── Volume-IV-Creator/
+│   │
+│   ├── Volume-V-Operations/
+│   │
+│   ├── Volume-VI-Legal/
+│   │
+│   └── Volume-VII-Archive/
+│
+├── diagrams/
+│
+├── references/
+│
+├── glossary/
+│
+├── appendices/
+│
+└── releases/
